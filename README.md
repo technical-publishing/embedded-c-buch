@@ -17,4 +17,4 @@ Die Quellcodes im Buch werden **nicht** als Download angeboten – das bewusste 
 
 ---
 
-© [Werner Böcker], [2025]. Alle Inhalte nur zur Verwendung im Rahmen des Buchs. Keine kommerzielle Nutzung.
+© Werner Böcker, 2025. Alle Inhalte nur zur Verwendung im Rahmen des Buchs. Keine kommerzielle Nutzung.
